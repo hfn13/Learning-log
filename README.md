@@ -1,0 +1,1 @@
+Learning log is an application that helps you record everything you have learnt, and you are able to access it as long as you have your device with you.
